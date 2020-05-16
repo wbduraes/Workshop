@@ -1,6 +1,6 @@
 # Workshop Master
 Repo for VS Code Workshop and all other stuff
-there is a bunch of stuff here!!!
+there is a bunch of stuff here!!!!!!
 
 - Code
 - Samples
