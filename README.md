@@ -10,6 +10,8 @@ there is a bunch of stuff here!!!
 
 If you like what you see, then you're happy. 
 
+```json
+
 {
     "configurations": [
         {
@@ -35,3 +37,5 @@ If you like what you see, then you're happy.
     ],
     "version": 4
 }
+
+```
