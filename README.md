@@ -7,7 +7,7 @@ This is an usefeul [link](www.cnn.com).
 
 - Code
 - Samples
-- Devices
+- Devicesb
 
 ## Samples
 
