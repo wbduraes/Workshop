@@ -1,6 +1,9 @@
 # Workshop Master  -online change
 Repo for VS Code Workshop and all other stuff
 there is a bunch of stuff here!!!!!!
+this is a **very important** note.
+
+This is an usefeul [link](www.cnn.com).
 
 - Code
 - Samples
@@ -10,8 +13,8 @@ there is a bunch of stuff here!!!!!!
 
 If you like what you see, then you're happy. 
 
-```json
 
+```json
 {
     "configurations": [
         {
@@ -39,4 +42,5 @@ If you like what you see, then you're happy.
     "version": 4
 }
 
+```
 ```
