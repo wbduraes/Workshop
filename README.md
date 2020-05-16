@@ -10,7 +10,6 @@ there is a bunch of stuff here!!!
 
 If you like what you see, then you're happy. 
 
-```json
 {
     "configurations": [
         {
