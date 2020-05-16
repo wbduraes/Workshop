@@ -17,7 +17,8 @@ If you like what you see, then you're happy.
         {
             "name": "Win32",
             "defines": [
-                "ARDUINO=10800"
+                "ARDUINO=10800",
+                "USBCON"
             ],
             "includePath": [
                 "C:\\Program Files (x86)\\Arduino\\tools\\**",
